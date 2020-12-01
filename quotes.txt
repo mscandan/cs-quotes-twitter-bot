@@ -1,0 +1,60 @@
+      “The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.”
+    Edsger W. Dijkstra
+      “The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.”
+    Donald E. Knuth,
+      “Well, writing novels is incredibly simple: an author sits down…and writes.<br/><br/>Granted, most writers I know are a bit strange.<br/><br/>Some, downright weird.<br/><br/>But then again, you’d have to be.<br/><br/>To spend hundreds and hundreds of hours sitting in front of a computer screen staring at lines of information is pretty tedious. More like a computer programmer. And no matter how cool the Matrix made looking at code seem, computer programmers are even weirder than authors.”
+    Christopher Hopper
+      “The most important property of a program is whether it accomplishes the intention of its user.”
+    C.A.R. Hoare
+      “...if you aren't, at any given time, scandalized by code you wrote five or even three years ago, you're not learning anywhere near enough”
+    Nick  Black
+      “I don't know how many of you have ever met Dijkstra, but you probably know that arrogance in computer science is measured in nano-Dijkstras.”
+    Alan Kay
+      “I think that it’s extraordinarily important that we in computer science keep fun in computing. When it started out it was an awful lot of fun. Of course the paying customers got shafted every now and then and after a while we began to take their complaints seriously. We began to feel as if we really were responsible for the successful error-free perfect use of these machines. I don’t think we are. I think we’re responsible for stretching them setting them off in new directions and keeping fun in the house. I hope the ﬁeld of computer science never loses its sense of fun. Above all I hope we don’t become missionaries. Don’t feel as if you’re Bible sales-men. The world has too many of those already. What you know about computing other people will learn. Don’t feel as if the key to successful computing is only in your hands. What’s in your hands I think and hope is intelligence: the ability to see the machine as more than when you were ﬁrst led up to it that you can make it more.”
+    Alan J. Perlis
+      “C is quirky, flawed, and an enormous success.”
+    Dennis M. Ritchie
+      “Code is not like other how-computers-work books. It doesn't have big color illustrations of disk drives with arrows showing how the data sweeps into the computer. Code has no drawings of trains carrying a cargo of zeros and ones. Metaphors and similes are wonderful literary devices but they do nothing but obscure the beauty of technology.”
+    Charles Petzold,
+      “Is it possible that software is not like anything else, that it is meant<br/>to be discarded: that the whole point is to always see it as a soap<br/>bubble?”
+    Alan J Perlis
+      “Unix is not so much a product as it is a painstakingly compiled oral history of the hacker subculture. It is our Gilgamesh epic: a living body of narrative that many people know by heart, and tell over and over again—making their own personal embellishments whenever it strikes their fancy. The bad embellishments are shouted down, the good ones picked up by others, polished, improved, and, over time, incorporated into the story. […] Thus Unix has slowly accreted around a simple kernel and acquired a kind of complexity and asymmetry about it that is organic, like the roots of a tree, or the branchings of a coronary artery. Understanding it is more like anatomy than physics.”
+    Neal Stephenson
+      “While functions being unable to change state is good because it helps us reason about our programs, there's one problem with that. If a function can't change anything in the world, how is it supposed to tell us what it calculated? In order to tell us what it calculated, it has to change the state of an output device (usually the state of the screen), which then emits photons that travel to our brain and change the state of our mind, man.”
+    Miran Lipovača
+      “What's in your hands I think and hope is intelligence: the ability to see the machine as more than when you were ﬁrst led up to it that you can make it more.”
+    Alan J. Perlis
+      “In search," Urs (Hölzle) believed, "the discussion was really, How can we outdistance our current system and make it look laughable? That's the best definition of success: if a new system comes out and everyone says, 'Wow, I can't believe we put up with that old thing because it was so primitive and limited compared to this.”
+    Douglas Edwards,
+      “Ciência da Computação tem tanto a ver com o computador como a astronomia com o telescópio, a biologia com o microscópio, ou a química com os tubos de ensaio. A ciência não estuda ferramentas, mas o que fazemos e o que descobrimos com elas.”
+    Edsger Dijkstra
+      “Thinking about small things every day from today will lead you to rise to the ranks of Donald Knuth and Alan Turing in a few years.”
+    Aditya Chatterjee,
+      “The advantage of subdividing the heap is that multiple threads can each allocate objects at the same time without interfering with one another. Further, by allocating object used by the same thread from the same memory region, cache hit rates may improve.”
+    Thomas Anderson,
+      “The only way to make sure that you don't lose your job with the arrival of AI, is to do something that AI cannot do, and the only thing that artificial intelligence cannot do but a human can, is being original. So, do something original and no AI can ever replace you.”
+    Abhijit Naskar
+      “I heard reiteration of the following claim: Complex theories do not work; simple algorithms do.<br/>I would like to demonstrate that in the area of science a good old principle is valid:<br/>Nothing is more practical than a good theory.”
+    Vladimir N Vapnik
+      “I heard reiteration of the following claim: Complex theories do not work; simple algorithms do.<br/>One of the goals of this book is to show that, at least in the problems of statistical inference, this is not true. I would like to demonstrate that in the area of science a good old principle is valid:<br/>Nothing is more practical than a good theory.”
+    Vladimir N Vapnik
+      “Every machine has artificial intelligence. And the more advanced a machine gets, the more advanced artificial intelligence gets as well. But, a machine cannot feel what it is doing. It only follows instructions - our instructions - instructions of the humans. So, artificial intelligence will not destroy the world. Our irresponsibility will destroy the world.”
+    Abhijit Naskar
+      “Pascal is for building pyramids -- imposing, breathtaking, static structures built by armies pushing heavy blocks into place. Lisp is for building organisms -- imposing, breathtaking, dynamic structures built by squads fitting fluctuating myriads of simpler organisms into place.”
+    Harold Abelson; Gerald Jay Sussman; Julie Sussman; Eiichi Wada
+      “loop {<br/> work();<br/> play();<br/> ; // &lt;-- empty statement<br/>}<br/><br/>Rust follows the tradition of C in allowing this. Empty statements do nothing except convey a slight feeling of melancholy. We mention them only for completeness.”
+    Jim Blandy, Jason Orendorff,
+      “End-to-End encryption is practically a meaningless phrase used by internet-based companies to coax people into believing the modern myth of online privacy.”
+    Abhijit Naskar
+      “The original Ethernet consisted of a fat cable into which a wire coming from each computer was forcibly inserted using what was euphemistically referred to a vampire tap.”
+    Andrew Tanenbaum
+      “Although greed is considered one of the seven deadly sins, it turns out that greedy algorithms often perform quite well.”
+    Stuart Russell,
+      “For many purposes, we need to understand the world as having things in it that are related to each other, not just variables with values. For example, we might notice that a large truck ahead of us is reversing into the driveway of a dairy farm but a cow has got loose and is blocking the truck’s path. A factored representation is unlikely to be pre-equipped with the attribute TruckAheadBackingIntoDairyFarmDrivewayBlockedByLooseCow with value true or false”
+    Stuart Russell,
+      “Coding is not just code, that is a live thing to serve everyone!”
+    Ming Song
+      “Discoveries can come in many different ways, and the most important thing is to be ready for them.”
+    Neil C. Jones,
+      “Programs should always have the form of paragraphs of comments that describe the intention of the program followed by paragraphs of code that implement that intention. All of the formatting should be designed to make readers as able as possible to read the code easily; the compiler doesn’t care. In particular, follow conventions of mathematics and your native language, not those you found in some random language manual. Write the comments first and then write the code, not the other way around. If you don’t know what you want to achieve and why, any code you write is, by definition, incorrect.”
+    Charles Wetherell,
